@@ -1,4 +1,4 @@
 # Beer Blurrer
 
-![Beer Blurrer Poster](https://github.com/siddarth-c/CoDoH/blob/main/Poster.png "Title")
+![Beer Blurrer Poster](https://github.com/siddarth-c/Digital-Image-Processing/blob/main/Poster.png "Title")
 
