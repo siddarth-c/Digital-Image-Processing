@@ -300,7 +300,7 @@ opencv_image = cv.imread(poster_file)
 
 
 st.set_page_config(page_title="Beer Blurrer", page_icon=":beers:")
-st.markdown('# Blur the Beer :beers::beers:')
+st.markdown('# Beer Blurrer  :beers::beers:')
 
 my_expander = st.beta_expander("About Beer Blurrer", expanded=False)
 
