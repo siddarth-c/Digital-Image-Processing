@@ -284,6 +284,8 @@ def blur_beer(org_img, config_path, weights_path, labels_path):
 
         my_bar.progress(100)
 
+        output_img = output_img[20:-20, 20:-20]
+        
         st.image(output_img, caption='Final Image.', use_column_width=True, channels="BGR")
         return 'Done!'
 
