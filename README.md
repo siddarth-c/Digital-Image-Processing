@@ -8,7 +8,11 @@ The Indian cinema censor board demands to blur alcohol bottles in movies but it 
 ## StreamLit Output
 ![Beer Blurrer Poster](https://github.com/siddarth-c/Digital-Image-Processing/blob/main/StreamLit.png "Title")
 
-Team Members: <br>
+## Result
+Achieved a MAP (mean average precision) score of 99.19%. <br>
+Average processing time per image: 0.75 sec
+
+## Team Members: <br>
 
 [B Gokulapriyan](https://github.com/Gokulapriyan-B/Machine-Learning)
 <br>
