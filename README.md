@@ -10,7 +10,9 @@ The Indian cinema censor board demands to blur alcohol bottles in movies but it 
 
 ## Result
 Achieved a MAP (mean average precision) score of 99.19%. <br>
-Average processing time per image: 0.75 sec
+Average processing time per image: 0.75 sec <br>
+YOLO training Graph: <br>
+<img src = "https://github.com/siddarth-c/Digital-Image-Processing/blob/main/yolo_train_graph.png" width="600">
 
 ## Team Members: <br>
 
